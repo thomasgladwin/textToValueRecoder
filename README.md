@@ -1,6 +1,6 @@
 # textToValueRecoder
 
-A utility function (in R), originally made for when questionnaire responses were saved as the original response-option text rather than as a numerical code. Requires installation of the package readxl if you're reading Excel files as raw input.
+A utility function (in R), originally made for students who had questionnaire responses saved as the original response-option text rather than as a numerical code. Requires installation of the package readxl if you're reading Excel files as raw input.
 
 Your recodings can be specified for all necessary variables by specifying:
 - the variable name
